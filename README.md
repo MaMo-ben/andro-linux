@@ -20,3 +20,4 @@ sh andro-linux.sh
 and follow the steps in 
 and just white 
 </pre></i></n>
+© 2018
