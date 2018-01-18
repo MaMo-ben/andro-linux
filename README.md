@@ -5,7 +5,7 @@
 - i was hacker and now ia ethical 
 - see [our page Deveval] https://www.facebook.com/Thedeveval-170433723717068/)
 - share it with your frinds :) (:
-## What linux andro do
+## Whatis linux andro do
 - this tool install linux os on your system boot in with ssh and vnc in gui
 - you need root on your device and busy box 
 - you need about 5 gb too install it
