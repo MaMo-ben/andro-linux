@@ -1,4 +1,4 @@
-<img src="icon.png" align="right" />
+<img src="icon.jpg" align="right" />
 
 ## Who is me 
 - iam a programmer 
